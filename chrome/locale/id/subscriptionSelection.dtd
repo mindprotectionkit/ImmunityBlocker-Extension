@@ -1,5 +1,5 @@
 <!ENTITY addMain.label "Tambahkan filter &amp;langganan &quot;?&quot; juga">
-<!ENTITY list.download.failed "Adblock Plus gagal untuk mengambil daftar langganan.">
+<!ENTITY list.download.failed "Liberty Blocker gagal untuk mengambil daftar langganan.">
 <!ENTITY list.download.retry "Coba lagi">
 <!ENTITY title.label "&amp;Judul langganan:">
 <!ENTITY list.download.website "Lihat situs">
@@ -7,6 +7,6 @@
 <!ENTITY viewList.label "Lihat filter">
 <!ENTITY visitHomepage.label "Kunjungi situs web">
 <!ENTITY addSubscription.label "Tambahkan langganan">
-<!ENTITY dialog.title "Tambahkan filter langganan Adblock Plus">
+<!ENTITY dialog.title "Tambahkan filter langganan Liberty Blocker">
 <!ENTITY location.label "&amp;Lokasi daftar filter:">
 <!ENTITY fromWeb.description "Silahkan konfirmasi bahwa Anda ingin menambahkan filter langganan. Anda dapat merubah judul langganan atau lokasi sebelum menambahkannya.">

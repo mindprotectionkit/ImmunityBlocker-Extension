@@ -6,7 +6,7 @@
 <!ENTITY subscription.enabled.label "सक्षम किया गया">
 <!ENTITY subscription.homepage.label "मुखपृष्ठ">
 <!ENTITY subscription.external.label "एक अन्य एक्सटेंशन द्वारा अद्यतन किया">
-<!ENTITY dialog.title "Adblock प्लस फ़िल्टर वरीयताएँ">
+<!ENTITY dialog.title "Liberty Blocker प्लस फ़िल्टर वरीयताएँ">
 <!ENTITY subscription.lastDownload.invalidURL "विफल रहा, एक मान्य पता नहीं ">
 <!ENTITY subscription.lastDownload.label "पिछले डाउनलोड:">
 <!ENTITY subscriptions.tab.label "फ़िल्टर सदस्यताएँ">

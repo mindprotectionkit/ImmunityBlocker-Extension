@@ -1,18 +1,18 @@
-<!ENTITY sync.label "Поставке &amp;усклађивања Adblock Plus-а">
+<!ENTITY sync.label "Поставке &amp;усклађивања Liberty Blocker-а">
 <!ENTITY whitelist.site.label "Онемогући на ?1?">
 <!ENTITY filters.label "Подешавања &amp;филтера">
 <!ENTITY disable.label "Онемогући свуда">
 <!ENTITY objecttab.title "Блокирај">
-<!ENTITY objecttab.tooltip "Кликните овде да бисте блокирали објекат помоћу Adblock Plus-а">
-<!ENTITY menuitem.label "Adblock Plus - подеша&amp;вања">
+<!ENTITY objecttab.tooltip "Кликните овде да бисте блокирали објекат помоћу Liberty Blocker-а">
+<!ENTITY menuitem.label "Liberty Blocker - подеша&amp;вања">
 <!ENTITY objecttabs.label "Прикажи &amp;језичак на Flash и Java објектима">
 <!ENTITY sendReport.label "&amp;Пријави проблеме на овој страници">
 <!ENTITY whitelist.page.label "Онемогући само на овој страници">
 <!ENTITY context.image.label "Блокирај слику">
 <!ENTITY counthits.label "Бр&amp;ој поготке филтера">
 <!ENTITY opensidebar.label "О&amp;твори ставке које се могу блокирати">
-<!ENTITY contribute.label "Допринесите Adblock Plus-у">
-<!ENTITY toolbarbutton.label "Adblock Plus">
+<!ENTITY contribute.label "Допринесите Liberty Blocker-у">
+<!ENTITY toolbarbutton.label "Liberty Blocker">
 <!ENTITY context.frame.label "Блокирај оквир">
 <!ENTITY blocked.tooltip "Блокиране ставке на овој страни:">
 <!ENTITY hideplaceholders.label "Сакриј &amp;држаче елемената блокираних ставки">

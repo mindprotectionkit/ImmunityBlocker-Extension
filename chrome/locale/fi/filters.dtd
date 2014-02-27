@@ -6,8 +6,8 @@
 <!ENTITY subscription.actions.label "Toiminnot">
 <!ENTITY filter.selectAll.label "Valitse kaikki">
 <!ENTITY backupButton.label "&amp;Varmuuskopioi ja palauta">
-<!ENTITY restore.minVersion.warning "Varoitus: tiedosto on luotu uudemmalla Adblock Plussan versiolla. Ennen kuin palautat tästä tiedostosta, on suositeltavaa päivittää uusimpaan Adblock Plussan versioon.">
-<!ENTITY restore.error "Tiedoston tietoja ei voida käsitellä. Ehkä tämä ei ole Adblock Plus -varmuuskopiotiedosto?">
+<!ENTITY restore.minVersion.warning "Varoitus: tiedosto on luotu uudemmalla Liberty Blockersan versiolla. Ennen kuin palautat tästä tiedostosta, on suositeltavaa päivittää uusimpaan Liberty Blockersan versioon.">
+<!ENTITY restore.error "Tiedoston tietoja ei voida käsitellä. Ehkä tämä ei ole Liberty Blocker -varmuuskopiotiedosto?">
 <!ENTITY sort.ascending.label "&amp;A &gt; Z lajittelu">
 <!ENTITY sort.label "Lajitt&amp;eluperuste">
 <!ENTITY subscription.source.label "Suodatintilaus">
@@ -29,13 +29,13 @@
 <!ENTITY subscription.lastDownload.unknown "N/A">
 <!ENTITY addSubscriptionCancel.label "Peruuta">
 <!ENTITY subscription.enabled.label "Käytössä">
-<!ENTITY noSubscriptions.text "Suodatintilauksia ei ole vielä lisätty. Adblock Plus ei estä mitään
+<!ENTITY noSubscriptions.text "Suodatintilauksia ei ole vielä lisätty. Liberty Blocker ei estä mitään
  ilman suodattimia. Käytä &quot;Lisää suodatintilaus&quot; -painiketta lisätäksesi 
  joitakin.">
 <!ENTITY subscription.update.label "Päivitä suodattimet">
-<!ENTITY dialog.title "Adblock Plus -suodatinasetukset">
+<!ENTITY dialog.title "Liberty Blocker -suodatinasetukset">
 <!ENTITY addFilter.label "&amp;Lisää suodatin">
-<!ENTITY subscription.minVersion.warning "Tämä suodatintilaus vaatii uudemman Adblock Plus -version, on suositeltavaa päivittää uusimpaan Adblock Plussan versioon.">
+<!ENTITY subscription.minVersion.warning "Tämä suodatintilaus vaatii uudemman Liberty Blocker -version, on suositeltavaa päivittää uusimpaan Liberty Blockersan versioon.">
 <!ENTITY subscription.lastDownload.invalidURL "Epäonnistui, kelvoton osoite">
 <!ENTITY backup.error "Tapahtui virhe kirjoitettaessa suodattimia tiedostoon. Varmista että tiedosto ei ole kirjoitussuojattu tai jonkin muun ohjelman käytössä.">
 <!ENTITY filter.moveUp.label "Siirrä ylös">

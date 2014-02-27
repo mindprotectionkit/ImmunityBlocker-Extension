@@ -6,7 +6,7 @@
 <!ENTITY subscription.actions.label "Ações">
 <!ENTITY filter.selectAll.label "Selecionar tudo">
 <!ENTITY backupButton.label "&amp;Backup e restauro">
-<!ENTITY restore.minVersion.warning "Atenção: o ficheiro foi criado com uma versão mais recente do Adblock Plus. Deve atualizar para a versão mais recente do Adblock Plus antes de restaurar este ficheiro.">
+<!ENTITY restore.minVersion.warning "Atenção: o ficheiro foi criado com uma versão mais recente do Liberty Blocker. Deve atualizar para a versão mais recente do Liberty Blocker antes de restaurar este ficheiro.">
 <!ENTITY restore.error "A informação do ficheiro não foi processada com sucesso. Tem a certeza que é um ficheiro válido?">
 <!ENTITY sort.ascending.label "Ordenar &amp;A &gt; Z">
 <!ENTITY sort.label "&amp;Ordenar por">
@@ -29,13 +29,13 @@
 <!ENTITY subscription.lastDownload.unknown "N/D">
 <!ENTITY addSubscriptionCancel.label "Cancelar">
 <!ENTITY subscription.enabled.label "Ativo">
-<!ENTITY noSubscriptions.text "Ainda não adicionou uma subscrição de filtros. O Adblock Plus não bloqueará
+<!ENTITY noSubscriptions.text "Ainda não adicionou uma subscrição de filtros. O Liberty Blocker não bloqueará
 elementos sem filtros. Por favor utilize &quot;Adicionar subscrição de filtros&quot; para
 um filtro.">
 <!ENTITY subscription.update.label "Atualizar filtros">
-<!ENTITY dialog.title "Preferências de filtros do Adblock Plus">
+<!ENTITY dialog.title "Preferências de filtros do Liberty Blocker">
 <!ENTITY addFilter.label "A&amp;dicionar filtro">
-<!ENTITY subscription.minVersion.warning "Esta subscrição de filtros requer uma versão mais recente do Adblock Plus. Deve atualizar para a versão mais recente do Adblock Plus.">
+<!ENTITY subscription.minVersion.warning "Esta subscrição de filtros requer uma versão mais recente do Liberty Blocker. Deve atualizar para a versão mais recente do Liberty Blocker.">
 <!ENTITY subscription.lastDownload.invalidURL "Endereço inválido">
 <!ENTITY backup.error "Ocorreu um erro ao guardar os filtros no ficheiro. Certifique-se que o ficheiro não está protegido contra escrita ou a ser utilizado por outra aplicação.">
 <!ENTITY filter.moveUp.label "Mover para cima">

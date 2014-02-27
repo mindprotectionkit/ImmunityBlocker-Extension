@@ -6,8 +6,8 @@
 <!ENTITY subscription.actions.label "Tindakan">
 <!ENTITY filter.selectAll.label "Pilih semua">
 <!ENTITY backupButton.label "&amp;Cadangan dan Pengembalian">
-<!ENTITY restore.minVersion.warning "Peringatan: berkas telah dibuat dengan versi Adblock Plus yang lebih baru. Anda harus memperbarui ke versi Adblock Plus terbaru sebelum mengembalikan dari berkas ini.">
-<!ENTITY restore.error "Data berkas tidak bisa diproses, mungkin ini bukan berkas cadangan Adblock Plus?">
+<!ENTITY restore.minVersion.warning "Peringatan: berkas telah dibuat dengan versi Liberty Blocker yang lebih baru. Anda harus memperbarui ke versi Liberty Blocker terbaru sebelum mengembalikan dari berkas ini.">
+<!ENTITY restore.error "Data berkas tidak bisa diproses, mungkin ini bukan berkas cadangan Liberty Blocker?">
 <!ENTITY sort.ascending.label "Urutkan dari A &gt; Z">
 <!ENTITY sort.label "&amp;Urutkan dari">
 <!ENTITY subscription.source.label "Daftar penyaring">
@@ -29,11 +29,11 @@
 <!ENTITY subscription.lastDownload.unknown "N/A">
 <!ENTITY addSubscriptionCancel.label "Batal">
 <!ENTITY subscription.enabled.label "Diaktifkan">
-<!ENTITY noSubscriptions.text "Anda belum menambahkan penyaring langganan apapun. Adblock Plus tidak akan memblok apapun tanpa penyaring, silahkan gunakan &quot;Tambahkan penyaring langganan&quot; untuk menambahkan.">
+<!ENTITY noSubscriptions.text "Anda belum menambahkan penyaring langganan apapun. Liberty Blocker tidak akan memblok apapun tanpa penyaring, silahkan gunakan &quot;Tambahkan penyaring langganan&quot; untuk menambahkan.">
 <!ENTITY subscription.update.label "Perbarui penyaring">
-<!ENTITY dialog.title "Preferensi Penyaring Adblock Plus">
+<!ENTITY dialog.title "Preferensi Penyaring Liberty Blocker">
 <!ENTITY addFilter.label "Tambahkan penyaring">
-<!ENTITY subscription.minVersion.warning "Penyaring langganan memerlukan versi Adblock Plus yang lebih baru, Anda harus memperbarui ke versi Adblock Plus terbaru.">
+<!ENTITY subscription.minVersion.warning "Penyaring langganan memerlukan versi Liberty Blocker yang lebih baru, Anda harus memperbarui ke versi Liberty Blocker terbaru.">
 <!ENTITY subscription.lastDownload.invalidURL "Gagal, bukan alamat yang benar">
 <!ENTITY backup.error "Ada kesalahan penulisan penyaring ke berkas. Pastikan berkas tidak diproteksi atau sedang digunakan aplikasi lain.">
 <!ENTITY filter.moveUp.label "Ke atas">

@@ -10,14 +10,14 @@
 <!ENTITY collapse.yes.label "Sí">
 <!ENTITY basic.label "Vista básica">
 <!ENTITY type.filter.label "filtro de bloqueo">
-<!ENTITY shortpattern.warning "El patrón ingresado es demasiado corto para ser optimizado y puede ralentizar su experiencia de navegación. Se recomienda que elija una cadena más larga de este filtro permitir Adblock Plus procesar el filtro más eficientemente.">
-<!ENTITY dialog.title "Añadir regla de filtrado de Adblock Plus">
+<!ENTITY shortpattern.warning "El patrón ingresado es demasiado corto para ser optimizado y puede ralentizar su experiencia de navegación. Se recomienda que elija una cadena más larga de este filtro permitir Liberty Blocker procesar el filtro más eficientemente.">
+<!ENTITY dialog.title "Añadir regla de filtrado de Liberty Blocker">
 <!ENTITY anchors.label "Sólo aceptar patrones:">
 <!ENTITY collapse.default.yes.label "Usar predeterminado (sí)">
 <!ENTITY domainRestriction.help "usa esta opcion para especificar un o varios dominios separados por ''|''. el filtro sólo se aplicara a los dominios seleccionados. el simbolo ''~'' antes de un dominio indica que no se le aplicara el filtro">
 <!ENTITY accept.label "Añadir filtro">
 <!ENTITY options.label "Opciones">
-<!ENTITY disabled.warning "Adblock Plus está desactivado. Puede añadir filtros, pero no se aplicarán a menos que [link]active Adblock Plus[/link].">
+<!ENTITY disabled.warning "Liberty Blocker está desactivado. Puede añadir filtros, pero no se aplicarán a menos que [link]active Liberty Blocker[/link].">
 <!ENTITY collapse.no.label "No">
 <!ENTITY selectAllTypes.label "Seleccionar todos">
 <!ENTITY advanced.label "Vista avanzada">

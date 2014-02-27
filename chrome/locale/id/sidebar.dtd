@@ -20,7 +20,7 @@
 <!ENTITY detach.label "Lepas">
 <!ENTITY whitelisted.label "Halaman yang dibebaskan">
 <!ENTITY context.disablefilteronsite.label "Nonaktifkan filter ini pada ?1?">
-<!ENTITY detached.title "Adblock Plus: Item yang bisa diblok (dilepaskan)">
+<!ENTITY detached.title "Liberty Blocker: Item yang bisa diblok (dilepaskan)">
 <!ENTITY docDomain.firstParty "(pihak pertama)">
 <!ENTITY tooltip.type.whitelisted "(dibebaskan)">
 <!ENTITY tooltip.filter.label "Efek filter:">

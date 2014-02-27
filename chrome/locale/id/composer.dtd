@@ -13,19 +13,19 @@
 <!ENTITY custom.pattern.label "&amp;Kustom:">
 <!ENTITY unselectAllTypes.label "Tidak memilih apapun">
 <!ENTITY type.whitelist.label "Aturan p&amp;engabaian">
-<!ENTITY regexp.warning "Pola yang Anda masukkan akan dianggap sebagai regular expression yang tidak akan efisien untuk dapat diproses oleh Adblock Plus dan mungkin akan memperlambat pengalaman browsing Anda. Jika Anda tidak berniat untuk menggunakan regular expression, tambahkan tanda bintang (*) diakhir pola.">
-<!ENTITY dialog.title "Tambah aturan filter Adblock Plus">
+<!ENTITY regexp.warning "Pola yang Anda masukkan akan dianggap sebagai regular expression yang tidak akan efisien untuk dapat diproses oleh Liberty Blocker dan mungkin akan memperlambat pengalaman browsing Anda. Jika Anda tidak berniat untuk menggunakan regular expression, tambahkan tanda bintang (*) diakhir pola.">
+<!ENTITY dialog.title "Tambah aturan filter Liberty Blocker">
 <!ENTITY basic.label "Tampilan dasar">
 <!ENTITY type.filter.label "&amp;Filter yang diblokir">
 <!ENTITY types.label "Terapkan untuk jenis:">
-<!ENTITY shortpattern.warning "Pola yang Anda masukkan terlalu pendek untuk dapat disempurnakan dan mungkin memperlambat pengalaman berselancar Anda. Anda disarankan untuk memilih lagi karakter yang lebih panjang untuk saringan ini untuk memungkinkan Adblock Plus mengolah saringan agar lebih efisien.">
+<!ENTITY shortpattern.warning "Pola yang Anda masukkan terlalu pendek untuk dapat disempurnakan dan mungkin memperlambat pengalaman berselancar Anda. Anda disarankan untuk memilih lagi karakter yang lebih panjang untuk saringan ini untuk memungkinkan Liberty Blocker mengolah saringan agar lebih efisien.">
 <!ENTITY collapse.yes.label "Ya">
 <!ENTITY anchors.label "Hanya menerima pola:">
 <!ENTITY collapse.default.yes.label "Gunakan default (Ya)">
 <!ENTITY domainRestriction.help "Gunakan pilihan ini untuk menentukan satu atau lebih ranah yang dipisahkan oleh sebuah garis batang (|). Filter hanya akan diterapkan pada ranah yang dipilih. Sebuah tanda lekuk (~) sebelum nama ranah menunjukkan bahwa tapis tidak akan diterapkan pada ranah tersebut.">
 <!ENTITY accept.label "Tambahkan filter">
 <!ENTITY options.label "Pilihan">
-<!ENTITY disabled.warning "Adblock Plus sedang dimatikan. Anda masih dapat menambahkan filter tetapi mereka tidak akan diterapkan kecuali Anda [link] mengaktifkan Adblock Plus [/link].">
+<!ENTITY disabled.warning "Liberty Blocker sedang dimatikan. Anda masih dapat menambahkan filter tetapi mereka tidak akan diterapkan kecuali Anda [link] mengaktifkan Liberty Blocker [/link].">
 <!ENTITY anchor.start.flexible.label "&amp;pada awal nama domain">
 <!ENTITY collapse.no.label "Tidak">
 <!ENTITY selectAllTypes.label "Pilih Semua">

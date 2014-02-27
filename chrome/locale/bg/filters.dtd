@@ -6,8 +6,8 @@
 <!ENTITY subscription.actions.label "Действия">
 <!ENTITY filter.selectAll.label "Избери Всички">
 <!ENTITY backupButton.label "Архи&amp;вирай и Възстанови">
-<!ENTITY restore.minVersion.warning "Внимание: файлът е създаден с по-нова версия на Adblock Plus. Трябва да обновите до последната версия на Adblock Plus, преди да възстановите от този файл.">
-<!ENTITY restore.error "Файлът не може да се обработи или не е с данни, може би Това не е Adblock Plus архивния файл?">
+<!ENTITY restore.minVersion.warning "Внимание: файлът е създаден с по-нова версия на Liberty Blocker. Трябва да обновите до последната версия на Liberty Blocker, преди да възстановите от този файл.">
+<!ENTITY restore.error "Файлът не може да се обработи или не е с данни, може би Това не е Liberty Blocker архивния файл?">
 <!ENTITY sort.ascending.label "&amp;А &gt; Я сортиране">
 <!ENTITY sort.label "&amp;Сортирай по">
 <!ENTITY subscription.source.label "Филтър Лист">
@@ -29,13 +29,13 @@
 <!ENTITY subscription.lastDownload.unknown "Няма данни">
 <!ENTITY addSubscriptionCancel.label "Откажи">
 <!ENTITY subscription.enabled.label "Включен">
-<!ENTITY noSubscriptions.text "Ти не си добавил никакъв абонамент за филтри. Adblock Plus няма да блокира
+<!ENTITY noSubscriptions.text "Ти не си добавил никакъв абонамент за филтри. Liberty Blocker няма да блокира
  нищо без филтри, моля избери &quot;Добави филтър абонаменти&quot; за да
  добавиш някакви.">
 <!ENTITY subscription.update.label "Обнови филтрите">
-<!ENTITY dialog.title "Adblock Plus Настройки за филтър">
+<!ENTITY dialog.title "Liberty Blocker Настройки за филтър">
 <!ENTITY addFilter.label "Доб&amp;ави Филтър">
-<!ENTITY subscription.minVersion.warning "Този филтър абонамент изисква по-нова версия на Adblock Plus, трябва да обновите до последната версия на Adblock Plus.">
+<!ENTITY subscription.minVersion.warning "Този филтър абонамент изисква по-нова версия на Liberty Blocker, трябва да обновите до последната версия на Liberty Blocker.">
 <!ENTITY subscription.lastDownload.invalidURL "Грешка, невалиден адрес">
 <!ENTITY backup.error "Възникна грешка при писане на филтри за файла.Уверете се, че файлът не е защитени или се използва от друго приложение.">
 <!ENTITY filter.moveUp.label "Премести нагоре">
